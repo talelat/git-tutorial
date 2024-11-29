@@ -3,4 +3,6 @@
     echo "panson";
     echo "64014195";
 
+    echo "Hi";
+    echo "milk";
 ?>
