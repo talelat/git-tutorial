@@ -5,4 +5,7 @@
 
     echo "Hi";
     echo "milk";
+
+    echo "Hi";
+    echo "milk";
 ?>
